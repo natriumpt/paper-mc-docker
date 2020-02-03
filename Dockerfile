@@ -1,6 +1,6 @@
 FROM openjdk:8
 
-ENV PAPER_URL=https://papermc.io/api/v1/paper/1.14.4/latest/download
+ENV PAPER_URL=https://papermc.io/api/v1/paper/1.15.2/latest/download
 ENV MEMORY_SIZE=1G
 
 EXPOSE 25565/tcp
