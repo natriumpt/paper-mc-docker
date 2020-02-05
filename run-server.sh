@@ -1,4 +1,5 @@
 #!/bin/bash
+mkdir -p data
 docker run \ 
     --name paper-mc \
     --rm \
