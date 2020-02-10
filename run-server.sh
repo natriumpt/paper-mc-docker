@@ -5,6 +5,6 @@ docker run \
 	--rm \
 	-d \
 	-v ${PWD}/data:/data \
-	-i \
+	-it \
 	papermc
 
