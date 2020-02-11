@@ -1,0 +1,4 @@
+HOME=/home/ubuntu
+PATH=/usr/sbin:/usr/bin:/sbin:/bin
+
+0 * * * * /bin/bash -c "/home/alexandreramos/paper-mc-docker/scripts/backup-job.sh"
