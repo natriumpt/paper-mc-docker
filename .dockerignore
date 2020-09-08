@@ -1,7 +1,7 @@
 # Ignore data and backup folders
-data/
-backup/
+data
+backup
 
 # Ignore log files
-backup.log
+*.log
 
